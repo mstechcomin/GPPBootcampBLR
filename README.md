@@ -1,2 +1,2 @@
-# GPPBootcampBLR
-Global PowerPlatform Bootcamp - Bengaluru
+# Global PowerPlatform Bootcamp - Bengaluru
+### To Be Updated
