@@ -6,19 +6,19 @@ Thanks to all the attendees of Global Power Platform Bootcamp.  Here, we are sha
 
 | Sl# | Track | Speaker Name | Session Title | Presentation / Links |
 |:---:|:------|:-----------|:---------|:------------|
-| 1 | Keynote | Tracy Van der Schyff | Keynote Speech | [SlideShare](https://www.slideshare.net/TracyVanDerSchyff/microsoft-office-365-the-what-how-why  "Tracy's Personal SlideShare")  |
-| 2 | Developer | Dipti Chhatrapati & Manoj Mittal | Grow your SharePoint development platform with SharePoint Framework | [SlideShare](https://www.slideshare.net/DiptiChhatrapati/grow-your-sharepoint-development-platform-with-spfx "Dipti's Personal SlideShare") |
-| 3 | Developer | Jayakumar Balasubramaniam | Leverage SharePoint Framework (SPFx) development using Microsoft Graph API | [OneDrive](https://1drv.ms/p/s!AhFAjmMnFvLPhLx7BWkgoPXUZi90RQ?e=tSachF "Jayakumar's Personal OneDrive") |
-| 4 | Developer | Ram Prasad Meenavalli | Provisioning Modern Site using Site Scripts and Site Designs | [SlideShare](https://drive.google.com/file/d/1ug3UasxPoXeWjfp5oIZbRTTiz8z0FeLX/view?usp=sharing "Ram Prasad's Personal Google Drive") |
-| 5 | Developer | SkandaRamana Suryanarayana | Make $$$ with Azure Cognitive Services and Photography | [SlideShare](https://www.slideshare.net/ramana16/sps-bangalore2019-make-with-photography-and-azure-cognitive-services "Ramana's Personal SlideShare") |
-| 6 | Developer | Vijai Anand Ramalingam and Vignesh Ganesan | Building Engaging Business Solutions for Microsoft Teams and SharePoint using SPFx | [SlideShare](https://www.slideshare.net/VigneshGanesanMCPMCI/building-solutions-with-spfx-that-work-across-sharepoint-and-teams "Vignesh's Personal SlideShare") |
-| 7 | Developer | Nanddeep Nachan & Smita Nachan | Continuous Integration for SharePoint Framework Solutions on Azure DevOps | [SlideShare](https://www.slideshare.net/secret/ARSSMYGlvMZvgh "Nanddeep's Personal SlideShare") |
-| 8 | ITPro | Nitin Sharma | SharePoint Product Updates and Roadmap from Ignite 2019 | TDB |
-| 9 | ITPro | Jenkins NS | Architecting your Intranet with SharePoint Modernization | [SlideShare](https://www.slideshare.net/JenkinsNs/architecting-your-intranet-with-sharepoint-modernization "Jenkin's Personal SlideShare") |
-| 10 | ITPro | Yash Agarwal | Modernize Business Process with SharePoint Online & Power Platform | TDB |
-| 11 | ITPro | Jasjit Chopra | Mastering SharePoint as back end data store in Power Apps | N/A |
-| 12 | ITPro | Mitul Rana | Bringing AI to Business Users with Power Platform | [SlideShare](https://www.slideshare.net/mitul2020/bringing-artificial-intelligence-ai-to-business-users-with-microsoft-power-platform "Mitul's Personal SlideShare") / [Code](https://github.com/mitul1986/AIBuilderStartupKit "Mitul's GitHub") |
-| 13 | ITPro | Chendrayan V | Business Process Automation using PowerShell with SharePoint | TDB |
+| 1 | Keynote | Sandeep Alur | Keynote Speech | [SlideShare](https://www.slideshare.net/ "Sandeep Alur's Personal SlideShare")  |
+| 2 | Developer | SkandaRamana Suryanarayana | Build enterprise ready solutions with Microsoft Power Platform | [SlideShare](https://www.slideshare.net/ "SkandaRamana Suryanarayana's Personal SlideShare") |
+| 3 | Developer | Manoj Mittal | Leverage PowerPlatform with Common Data Model & Common Data Service | [OneDrive](https://onedrive.com "Manoj Mittal's Personal OneDrive") |
+| 4 | Developer | Mitul Rana and Samik Roy | Let's integrate natural language in your Power BI reports and ask a question on your data | [SlideShare](https://drive.google.com "Mitul Rana's Personal Google Drive") |
+| 5 | Developer | Bijay Kumar Sahoo | Build Powerful reports using DAX functions in Microsoft Power BI | [SlideShare](https://www.slideshare.net "Bijay Kumar Sahoo's Personal SlideShare") |
+| 6 | Developer | Basavaraj Biradar | Power BI Rookie to Pro | [SlideShare](https://www.slideshare.net "Basavaraj Biradar's Personal SlideShare") |
+| 7 | Developer | Madhan K | Building Custom Visuals using R/Python in Power BI | [SlideShare](https://www.slideshare.net "Madhan K's Personal SlideShare") |
+| 8 | ITPro | Nayana Pai | Harnessing Digital Potential through Microsoft Power Platform | [SlideShare](https://www.slideshare.net/ "Nayana Pai's Personal SlideShare" |
+| 9 | ITPro | Kishan Dubal and Pavan Kumar | SharePoint + Power Automate: Leading the power of digital transformation | [SlideShare](https://www.slideshare.net "Kishan Dubal's Personal SlideShare") |
+| 10 | ITPro | Chendrayan Venkatesan | Power Platform for IT Pro | [SlideShare](https://www.slideshare.net/ "Chendrayan's Personal SlideShare |
+| 11 | ITPro | Nagesh Bhat | Introducing PowerApps portals for external users | [SlideShare](https://www.slideshare.net/ "Nagesh's Personal SlideShare |
+| 12 | ITPro | Radhakrishnan Govindan | Managing and supporting PowerApps and Power Automate | [SlideShare](https://www.slideshare.net "Radhakrishnan Govindan's Personal SlideShare") / [Code](https://github.com/ "RK's GitHub") |
+| 13 | ITPro | Lalit Mohan | Building LOB apps using Microsoft PowerApps and Power Automate | [SlideShare](https://www.slideshare.net "Lalit Mohan's Personal SlideShare") |
 
 ## Event Photos
 Event Photos are uploaded on SPBangalore Facebook Group.  You can find them here in this [Facebook Group Photo Album](https://www.facebook.com/media/set/?set=oa.2529028327339938&type=3 "Facebook Group Photo Album"). 
@@ -41,7 +41,7 @@ These are links to Microsoft Technology related User Groups that runs in-person 
 
 * DataPlatformGeeks | [Website](http://www.dataplatformgeeks.com/ "Website")
 
-## SharePoint Saturday Events
+## Global Power Platform Bootcamp  Events
 
 * Want to find out Global Power Platform Bootcamp events? Visit [Global Power Platform Bootcamp](https://www.powerplatformbootcamp.com/ "Global Power Platform Bootcamp Home Page")
 
